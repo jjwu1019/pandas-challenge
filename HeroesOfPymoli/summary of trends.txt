@@ -1,0 +1,8 @@
+1. Most of the player base are males. (84.03%)
+2. Most of the player base are between age of 20-24. (44.79%)
+3. There are no significant difference between gender and age on purchasing behavior.
+   (Players on average purchase around $3-4 dollars worth of item(s) regardless of age or gender)
+
+Conclusion
+	Even though our main demographic are males between age of 20-24, they did not spend more
+money than other players.
